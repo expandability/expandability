@@ -2,8 +2,6 @@
   <img src="https://files.catbox.moe/a94ppu.gif" alt="Cool GIF">
 </p>
 
-# Formerly @lhwe
-
 ## Languages
 [![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)](#)
 [![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)](#)
@@ -21,3 +19,5 @@
 <p align="center">
   <img src="https://count.getloli.com/get/@lhwe?theme=gelbooru" alt="Visitor Counter">
 </p>
+
+# Formerly @lhwe
