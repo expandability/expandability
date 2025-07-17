@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1363764156150452364/1364577293434880001/lock_in.gif" alt="Пример">
+  <img src="https://files.catbox.moe/a94ppu.gif" alt="Пример">
 </p>
 
 #### Language
