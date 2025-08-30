@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/a94ppu.gif" alt="Cool GIF">
+  <img src="https://files.catbox.moe/ktk0zs.gif" alt="xd">
 </p>
 
 ## Languages
